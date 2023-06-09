@@ -20,5 +20,6 @@ module.exports = {
     typescript: {
         ignoreBuildErrors: true,
         strictNullChecks: false,
-    }
+    },
+    assetPrefix: './'
 };

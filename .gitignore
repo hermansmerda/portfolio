@@ -174,7 +174,7 @@ packages
 # misc
 .DS_Store
 yarn-lock.json
-package-lock.json
+# package-lock.json
 
 # other
 *.rar
